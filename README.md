@@ -2,6 +2,12 @@
 
 This tool generates RSS feeds for task pages on [Papers with Code](https://paperswithcode.com).
 
+For example, you can subscribe to:
+
+- [Object detection latest](https://granary.io/url?input=jsonfeed&output=atom&url=https://jamesg.blog/pwc/?url=/task/object-detection/latest)
+- [Image classification latest](https://granary.io/url?input=jsonfeed&output=atom&url=https://jamesg.blog/pwc/?url=/task/image-classification/latest)
+- [Data augmentation latest](https://granary.io/url?input=jsonfeed&output=atom&url=https://jamesg.blog/pwc/?url=/task/data-augmentation/latest)
+
 There is a hosted version of this tool available at `https://granary.io/url?input=jsonfeed&output=atom&url=https://jamesg.blog/pwc/?url=`, which you can use to make requests for task pages. The url structure is:
 
 ```
